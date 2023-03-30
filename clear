@@ -1,0 +1,36 @@
+[33mcommit 266dbe22bbf4220b517cb6c779149f833a95f1d9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: c9e503b 8034ae5
+Author: Johan <invitado@s1pc17.eisc.univalle.edu.co>
+Date:   Thu Mar 30 16:55:40 2023 -0500
+
+    Merge branch 'develop'
+
+[33mcommit 8034ae5a77bb35bd6f5c720b3b579e924a5f4a5e[m[33m ([m[1;32mdevelop[m[33m, [m[1;32mFixPerson[m[33m)[m
+Author: Johan <invitado@s1pc17.eisc.univalle.edu.co>
+Date:   Thu Mar 30 16:48:45 2023 -0500
+
+    Created Group
+
+[33mcommit c9e503bf465300c789be994d3b850c0c573b975a[m
+Author: Johan <invitado@s1pc17.eisc.univalle.edu.co>
+Date:   Thu Mar 30 16:41:00 2023 -0500
+
+    Change Person Class
+
+[33mcommit d65fe53df5f6022f789eef41d2c853d0eaccc9a3[m
+Author: Johan <invitado@s1pc17.eisc.univalle.edu.co>
+Date:   Thu Mar 30 16:29:04 2023 -0500
+
+    Enrollment
+
+[33mcommit b7324c054f5b7156fc4bbae0b37d47715bc64e15[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Johan <invitado@s1pc17.eisc.univalle.edu.co>
+Date:   Thu Mar 30 15:29:40 2023 -0500
+
+    Create Proffessor class
+
+[33mcommit d46497086cf1a5c44ec87476d163656f01766246[m
+Author: Johan <invitado@s1pc17.eisc.univalle.edu.co>
+Date:   Thu Mar 30 15:13:38 2023 -0500
+
+    Proyecto inicial
